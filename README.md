@@ -110,7 +110,7 @@ cd fullstack
 
 3.after navigating to "fullstack" folder with "cd fullstack" command you can see two folders 1."frontend" 2."backend"
 
-4.navigate to "frontend" folder using "cd frontend" and use command 
+4.navigate to "frontend" folder using ```cd frontend``` and use command 
 
 ```npm run dev``` to start the front end application.
 
