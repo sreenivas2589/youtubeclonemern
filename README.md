@@ -33,6 +33,7 @@ folder
 
 
 Project Structure:
+```
 fullstack/
 ├── frontend/
 │   ├── components/
@@ -55,6 +56,7 @@ fullstack/
 │   ├── package-lock.json
 │   └── server.js
 └── README.md
+```
 
 
 Features:
