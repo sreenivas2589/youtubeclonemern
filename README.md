@@ -112,19 +112,21 @@ cd fullstack
 
 3.after navigating to "fullstack" folder with "cd fullstack" command you can see two folders 1."frontend" 2."backend"
 
-4.navigate to "frontend" folder using ```cd frontend``` and use command 
+4.navigate to "frontend" folder using ```cd frontend``` and use command ```npm install``` to install all require dependencies
 
-```npm run dev``` to start the front end application.
+5.After installing required module then use command ```npm run dev``` to start the front end application.
 
 5.then open another terminal and type 
 
-```cd backend``` and use command ```npm start``` to start the backend application.
+```cd backend``` and use command ```npm install``` to install all the required dependencies
 
-6.confirm if both backend and frontend applications are running without any issues.
+6.then start the backend applicaton by using command ```npm start```
 
-7.then navigate to "http://localhost:5173"
+7.confirm if both backend and frontend applications are running without any issues.
 
-8.from there you can perform all the features implemented in the project
+8.then navigate to "http://localhost:5173"
+
+9.from there you can perform all the features implemented in the project
 
 Project By 
 
