@@ -1,5 +1,3 @@
-# youtubeclonemern
-Full Stack project - Youtube Clone with MERN stack
 
 # youtubeclonemern
 Full Stack project - Youtube Clone with MERN stack
