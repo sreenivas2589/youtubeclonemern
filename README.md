@@ -6,6 +6,10 @@ Demo Video Link
 
 ```https://drive.google.com/file/d/1AtPFLG4G207qvK5G4C3KmVM0b7zdD-DZ/view?usp=sharing```
 
+github link
+
+```https://github.com/sreenivas2589/youtubeclonemern```
+
 Project Setup:
 1.This project is a youtube clone made using MERN Stack.
 
