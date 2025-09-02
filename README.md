@@ -116,13 +116,11 @@ cd fullstack
 
 ```cd backend``` and use command ```npm start``` to start the backend application.
 
-6.Then navigate to backend folder using ```cd backend``` and use command ```npm start``` to start the backend application.
+6.confirm if both backend and frontend applications are running without any issues.
 
-7.confirm if both backend and frontend applications are running without any issues.
+7.then navigate to "http://localhost:5173"
 
-8.then navigate to "http://localhost:5173"
-
-9.from there you can perform all the features implemented in the project
+8.from there you can perform all the features implemented in the project
 
 Project By 
 
